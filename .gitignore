@@ -1,0 +1,25 @@
+# PSIM simulation outputs
+*.smv
+
+# Visual Studio build outputs
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.exp
+*.lib
+*.recipe
+*.tlog
+*.log
+
+# Build directories
+x64/
+Debug/
+Release/
+.vs/
+
+# Local and temporary files
+*.user
+*.suo
+*.tmp
+*.bak
